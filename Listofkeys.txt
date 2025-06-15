@@ -6,3 +6,10 @@ fr555559jd84n00-pplp121
 
 711ujjjdud83800-ppmj-437
 qyj333jjjs74700-ppmj-982
+
+
+Azure RG
+Azure Vnet
+Azure VMSS
+Azure LB
+Azure VPNGATEWAT
